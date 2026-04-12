@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../module"
+		},
+		{
+			"path": "../ansible-in-one-shot"
+		},
+		{
+			"path": "../ansible-role"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

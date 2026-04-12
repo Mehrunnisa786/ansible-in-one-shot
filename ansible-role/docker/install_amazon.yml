@@ -1,0 +1,9 @@
+#install docker in amazon linux
+
+---
+
+- name: Install Docker (Debian/Ubuntu)
+  dnf:
+    name: docker
+    state: present
+  become: yes
