@@ -1,0 +1,10 @@
+# Terraform local state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Terraform sensitive files
+terra-key-ansible
+
+# macOS files
+.DS_Store
